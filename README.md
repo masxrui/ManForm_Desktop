@@ -1,5 +1,5 @@
 # Scopul aplicatiei
-Scopul aplicatiei "ManForm" este sa oferim barbatilor o metoda usoara si accesibila la achizitionarea produselor de ingrijire personala specializate lor
+Scopul aplicatiei "ManForm" este de a oferi barbatilor o metoda usoara si accesibila la achizitionarea produselor de ingrijire personala specializate lor
 
 # Valoarea oferită
   1. Conveniență totală - Cumpărături online rapide cu livrare la ușă
