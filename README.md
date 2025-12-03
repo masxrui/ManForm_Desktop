@@ -16,3 +16,4 @@ Scopul aplicatiei "ManForm" este de a oferi barbatilor o metoda usoara si accesi
 
 Figma - https://www.figma.com/design/RFXAJ3libO7wl9Ph3pmkyD/men?node-id=0-1&t=dD9FvVdPZa8jUDgo-1
 Trello - https://trello.com/invite/b/69119f4caa53b5286c2b9da1/ATTI496dec4cd26e437150c0f74f9d862992EC262237/manform
+Canva - https://www.canva.com/design/DAG6XwaXPe4/jhVGk1F4rnHfW79crGh1Ug/edit?utm_content=DAG6XwaXPe4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
